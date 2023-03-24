@@ -47,6 +47,11 @@ amount of simulation time and consuming the least amount of energy.
 The Pipeline
 ============
 
+Pipeline designed by us:
+
+.. image:: ./CPU_datapath.png
+   :width: 1200
+
 Pipeline Control
 ----------------
 
