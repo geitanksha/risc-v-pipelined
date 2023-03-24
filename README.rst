@@ -5,10 +5,6 @@
 .. role:: red
 .. role:: redst
 
-===========================
-Risc-V Pipelined Processor
-===========================
-
 -------------------------------------------------
 A Pipelined Implementation of the RV32I Processor
 -------------------------------------------------
